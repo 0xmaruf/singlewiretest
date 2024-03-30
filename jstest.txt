@@ -1,0 +1,4 @@
+<script>
+document.write(JSON.stringify(window.location));
+document.write('<iframe src="https://google.com"></iframe>');
+</script>
